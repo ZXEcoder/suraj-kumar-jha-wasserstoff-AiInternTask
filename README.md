@@ -138,7 +138,7 @@ If you'd like to contribute to this project, feel free to submit a pull request.
 [HUGGING FACE DEPLOYED LINK](https://huggingface.co/spaces/SurajJha21/img_seg)
 
 ### If you want to see youtube video demo of project click the link down below to watch it 👇
-[Youtube video Link](https://huggingface.co/spaces/SurajJha21/img_seg)
+[Youtube video Link](https://youtu.be/uK0EVoA5Qhs))
 
 ## License
 
