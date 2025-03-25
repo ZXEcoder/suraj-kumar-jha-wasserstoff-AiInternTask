@@ -1,4 +1,4 @@
-# Suraj-Kumar-Jha-wasserstoff-AiInternTask YOLOv8 Object Detection, OCR, and Summarization Project
+# Suraj-Kumar-Jha AiInternTask YOLOv8 Object Detection, OCR, and Summarization Project
 
 This project performs object detection using YOLOv8, extracts text from detected objects using Tesseract OCR, and summarizes the extracted text. The results, including the segmented objects and their corresponding extracted and summarized text, are saved to disk in dedicated folders.
 
